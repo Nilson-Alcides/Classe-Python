@@ -7,3 +7,7 @@ class Pessoa:
 Henrinque = Pessoa("Henrinque", 29, "Programador")  
 
 print(Henrinque)
+
+Matehus = Pessoa("Matehus", 30, "Programador")  
+
+print(Matehus)
